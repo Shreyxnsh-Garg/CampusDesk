@@ -42,7 +42,7 @@ cron.schedule("* * * * *", async () => {
 ){
 
         await transporter.sendMail({
-          from: process.env.EMAIL_USER,
+          from: "Campus Desk <shreyansh7952@gmail.com>",
           to: booking.user.email,
           subject: "CampusDesk Booking Reminder",
           text: `Hi ${booking.user.name},
