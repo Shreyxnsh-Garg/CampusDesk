@@ -6,7 +6,7 @@ CampusDesk is a campus resource booking system that allows students to browse ca
 
 ## 🎥 Demo Video
 
-[▶️ Watch the CampusDesk Demo](https://drive.google.com/file/d/18wnT9yGf6Tcb03TDLXXEW2Veti0FV7QB/view?usp=share_link)
+[▶️ Watch the CampusDesk Demo](https://drive.google.com/file/d/15vHLvbccIwD4gYPrEOGR_0xAK9gwmona/view?usp=share_link)
 
 ---
 
